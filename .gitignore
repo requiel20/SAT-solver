@@ -1,0 +1,10 @@
+sat
+*.o
+
+#clion stuff
+cmake-build-debug/**
+.idea/**
+CMakeLists.txt
+
+# Vim 
+*.swp
